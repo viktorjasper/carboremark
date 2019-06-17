@@ -1,2 +1,2 @@
 # carboremark
-Memory benchmarking application, optimezed for easy diagram generation
+Memory benchmarking application. Diagramm generation friendly output.
